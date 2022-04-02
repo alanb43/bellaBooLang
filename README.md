@@ -1,6 +1,6 @@
 # bellaBooLang
 
-I'm making a super simple programming language that I think would be a nice intro to programming for my little sister Bella. (nickname is BellaBoo, and yes the norm for the language will be camelCase)
+I'm making a super simple programming language that I think would be a nice intro to programming for my little sister Bella. (nickname is bellaBoo, norm for the language will be camelCase)
 
 - Super simple, no complexity really at all
 - (I'm thinking of having basic types (int,char,bool,array of these types) and having simple functions such as print
